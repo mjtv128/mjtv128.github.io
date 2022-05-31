@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Hey, I'm Michelle
+### Software engineer / Data Scientist
 
 You can use the [editor on GitHub](https://github.com/mjtv128/mjtv128.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
