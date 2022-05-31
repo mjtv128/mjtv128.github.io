@@ -1,38 +1,20 @@
 ## Hey, I'm Michelle
 ### Software engineer / Data Scientist
 
+#### Summary
+
+I am currently a graduate student at Duke University studying Data Science (graduating May '23). My  
+
 You can use the [editor on GitHub](https://github.com/mjtv128/mjtv128.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Duke Univeristy (2023) - MS Data Science
+University of Oxford (2016) - Bachelor's and Masters of Engineering (MEng) in Materials Science
 
-```markdown
-Syntax highlighted code block
+#### Skills
 
-# Header 1
-## Header 2
-### Header 3
+#### Projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjtv128/mjtv128.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
